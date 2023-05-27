@@ -4,5 +4,5 @@ Code uploads pendings. Topics include
 - Python Client and Server Comms
 - Pythoin Malware IoC Extractor
 - Reverse Engineering Domain Generation Algorithms (DGA) 
-- Python Time Dependent Non-Deterministic-DGA
+- Python Time Dependent Non-Deterministic DGA (TDN-DGA)
  
