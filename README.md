@@ -8,7 +8,7 @@
 - **Degree Program:** PhD in Cyber Operations
 - **Degree Institution:** Dakota State University  
 - **Project Description:** In part for fulfillment of the Course CSC-841: Cyber Operations II
-- **Semester:** Fall 2021
+- **Semester:** Spring 2023
 - 
 ## Code uploads pendings. Topics include
 - WiFi/802.11 Parsing
