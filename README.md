@@ -1,4 +1,4 @@
-# CSC-841 Cyber Operations I
+# CSC-841 Cyber Operations II
 Code uploads pendings. Topics include
 - BGP Rout Poisoning
 - Python Client and Server Comms
